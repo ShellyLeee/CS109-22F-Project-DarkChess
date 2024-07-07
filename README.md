@@ -44,5 +44,5 @@ Project 说明及要求：https://github.com/ShellyLeee/CS109-22F-Project-DarkCh
 
 ## 运行方式
 
-点击src运行，即可加载GUI界面。
+点击src中的`Main.java` 运行，即可加载GUI界面。
 
